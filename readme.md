@@ -5,7 +5,7 @@
 <section id="presents">
 <h2>Estudante de Desenvolvimento de Software Fullstack Java☕ <span style="font-weight: normal; font-size: 12px; opacity: .7">vai um cafézinho ai 😉?!</span></h2>
 <p>
-🧠 Atualmente estudando Front-end focando em ReactJS e VueJS, já no Back-end principalmente em Java. Porém tenho projetos utilizando PHP. Possuo conhecimento de SQL em MySql. 
+🧠 Estudando Stacks de back-end focando em Java. Já possuo conhecimentos de SQL tanto em Postgres quanto MySQL. 
 </p>
 </section>
 
@@ -14,9 +14,8 @@
 <p style="font-weight: normal; margin-left: 20px;">
 🤝 Pra começar pode me chamar de Tom.</br>
 <hr/> 
-👨🏼‍💻 Iniciei meus estudos na tecnologia com Análise e Desenvolvimento De Sistemas na 
-<a href="https://www.pucpr.br/">PUC do Paraná</a>, no primeiro semestre de 2023. Também faço o curso de Fullstack Java pela <a href="https://ebaconline.com.br/">EBAC</a>.</br>
-🤞🏻 Busco minha primeira oportunidade com tecnologia. Sou profissional de perfil motivado e sou esforçado.</p>
+👨🏼‍💻 Iniciei meus estudos na tecnologia com o curso de Fullstack Java pela <a href="https://ebaconline.com.br/">EBAC</a>.</br>
+🤞🏻 Busco minha primeira oportunidade com tecnologia. Sou profissional de perfil motivado e esforçado.</p>
 </section>
 
 <section id="socials">
@@ -30,16 +29,15 @@
 <div style="border: 2px solid blue; border-radius: 10px; padding: 0 10px; margin-bottom: 10px">
 <h3>Front - end:</h3>
 </hr>
-
-![html](https://img.shields.io/badge/HTML-d35400?style=for-the-badge&logo=html5&logoColor=fff)![css](https://img.shields.io/badge/CSS-2980b9?&style=for-the-badge&logo=css3&logoColor=fff)![javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f1c40f)![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![babel](https://img.shields.io/badge/Babel-f1c40f?style=for-the-badge)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![talwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-<div style="border: 2px solid white; border-radius: 10px; padding: 0 10px; margin-bottom: 10px">
 <h4>Back - end:</h4>
 </hr>
 
-![Java](https://img.shields.io/badge/Java-202339?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+
+</div>
+<div style="border: 2px solid white; border-radius: 10px; padding: 0 10px; margin-bottom: 10px">
+![Java](https://img.shields.io/badge/Java-202339?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![html](https://img.shields.io/badge/HTML-d35400?style=for-the-badge&logo=html5&logoColor=fff)![css](https://img.shields.io/badge/CSS-2980b9?&style=for-the-badge&logo=css3&logoColor=fff)![javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f1c40f)![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![babel](https://img.shields.io/badge/Babel-f1c40f?style=for-the-badge)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![talwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </div>
 <div style="border: 2px solid green; border-radius: 10px; padding: 0 10px; margin-bottom: 10px">
 <h3>🛰️ Banco De Dados</h3>
